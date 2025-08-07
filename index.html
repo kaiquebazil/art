@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfólio - Desenhos & Poesia</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="title-section">
+                    <h1 class="main-title" id="main-title">Minha Arte</h1>
+                    <p class="subtitle" id="subtitle">Desenhos & Poesia</p>
+                </div>
+                
+                <button class="language-btn" id="language-btn">
+                    <i class="fas fa-globe"></i>
+                    <span id="language-text">PT</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <div class="artwork-grid" id="artwork-grid">
+                <!-- Artworks will be dynamically inserted here -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p id="footer-text">Minha Arte © 2024</p>
+        </div>
+    </footer>
+
+    <!-- Modal -->
+    <div class="modal-overlay" id="modal-overlay">
+        <div class="modal-content">
+            <div class="modal-image-section">
+                <img id="modal-image" alt="" />
+            </div>
+            
+            <div class="modal-text-section">
+                <div class="modal-header">
+                    <div class="modal-title-info">
+                        <h2 id="modal-title"></h2>
+                        <div class="modal-date">
+                            <i class="fas fa-calendar"></i>
+                            <span id="modal-date-text"></span>
+                        </div>
+                    </div>
+                    
+                    <button class="close-btn" id="close-btn">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                
+                <div class="modal-poem-section">
+                    <h3 id="poetry-title">Poesia</h3>
+                    <pre id="modal-poem"></pre>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
