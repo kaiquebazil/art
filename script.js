@@ -169,7 +169,7 @@ An enemy is someone who disrespects their own story.`
             pt: 'Melodia Visual',
             en: 'Visual Melody'
         },
-        imageUrl: 'src/kaique(4).jpg',
+        imageUrl: 'src/0(3).jpg',
         poem: {
             pt: `Eu não sei o que te faz sofrer
 Algo parecido com o que eu sofria
@@ -751,8 +751,8 @@ A galera do meu quarto só fala de tu.`
     {
         id: '13',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/kaique(13).jpg',
         poem: {
@@ -798,8 +798,8 @@ Dissatisfied, it found the one who would stop me. You!`
     {
         id: '11',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/kaique(14).jpg',
         poem: {
@@ -886,8 +886,8 @@ I get myself out of trouble and maybe I’ll go to the bakery.`
     {
         id: '11',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/kaique(15).jpg',
         poem: {
@@ -945,8 +945,8 @@ Try it...`
     {
         id: '16',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/kaique(16).jpg',
         poem: {
@@ -1025,8 +1025,8 @@ And friends are fingers`
     {
         id: '17',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/kaique(17).jpg',
         poem: {
@@ -1072,8 +1072,8 @@ Today, I won’t get out of bed.`
     {
         id: '18',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/kaique(18).jpg',
         poem: {
@@ -1151,8 +1151,8 @@ Let me go — I have an appointment.`
     {
         id: '19',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/kaique(19).jpg',
         poem: {
@@ -1209,8 +1209,8 @@ I broke my heart, but I’m taking care of my mind.`
     {
         id: '20',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/kaique(20).jpg',
         poem: {
@@ -1248,8 +1248,8 @@ And once again — it’s not out of happiness.`
     {
         id: '21',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/kaique(21).jpg',
         poem: {
@@ -1313,8 +1313,8 @@ LIVE.`
     {
         id: '22',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/kaique(22).jpg',
         poem: {
@@ -1385,8 +1385,8 @@ And when that day comes — do yourself a favor and live it.`
     {
         id: '23',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(15).webp',
         poem: {
@@ -1418,8 +1418,8 @@ And maybe momentary discomfort reveals eternal paths.`
     {
         id: '24',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(29).jpg',
         poem: {
@@ -1455,8 +1455,8 @@ It’s just that I finally understood — life is not a joke.`
     {
         id: '25',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(24).jpg',
         poem: {
@@ -1502,8 +1502,8 @@ Yeah… I should forget the past too.`
     {
         id: '26',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(6).webp',
         poem: {
@@ -1533,8 +1533,8 @@ In the end, we’re just lost — getting advice from those who are just a littl
     {
         id: '27',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(25).jpg',
         poem: {
@@ -1595,8 +1595,8 @@ I would’ve done it all the same.` },
     {
         id: '27',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(23).jpg',
         poem: {
@@ -1640,8 +1640,8 @@ What you all call God, everywhere.` },
     {
         id: '27',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(10).webp',
         poem: {
@@ -1689,8 +1689,8 @@ Might just be an illusion` },
     {
         id: '27',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/kaique(18).jpg',
         poem: {
@@ -1720,8 +1720,8 @@ So yes, Dad — I’m doing it for the ego.
     {
         id: '27',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(17).jpg',
         poem: {
@@ -1772,8 +1772,8 @@ Wherever I go, you’ll be there too` },
     {
         id: '27',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(14).webp',
         poem: {
@@ -1812,8 +1812,8 @@ I’ve just told you now the disadvantages of being invisible` },
     {
         id: '27',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(21).jpg',
         poem: {
@@ -1874,8 +1874,8 @@ But it was impossible not to notice.` },
     {
         id: '27',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(9).jpg',
         poem: {
@@ -1938,8 +1938,8 @@ There is another way. Please, believe in that.
     {
         id: '27',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(7).jpg',
         poem: {
@@ -2004,8 +2004,8 @@ But do it for all of us, too.` },
     {
         id: '27',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(2).webp',
         poem: {
@@ -2043,8 +2043,8 @@ I hope so.` },
     {
         id: '27',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(1).jpg',
         poem: {
@@ -2073,8 +2073,8 @@ But I’ve lost — I admit, when it comes to feelings, I’m no match.` },
     {
         id: '27',
         title: {
-            pt: 'Ecos do Passado',
-            en: 'Echoes of the Past'
+            pt: 'Sem nome',
+            en: 'no name'
         },
         imageUrl: 'src/0(4).webp',
         poem: {
